@@ -9,8 +9,8 @@ Managed and leading software development teams in communities of software develo
 Skills: HTML5 / CSS3 / SASS/ BOOTSTRAP4.6 / TAILWINDCSS/ PHP / LARAGON / XAMPP / JAVASCRIPT / REACT / MATERIAL UI / STYLED COMPONENTS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning FRENCH AND ENGLISH LANGUAGES | POWER BI FOR EXCEL | DATA SCIENCE 
-- 👯 I’m looking to collaborate on DEVS COMMUNITYS 
+- 🌱 I’m currently learning: languaes as english and french | power bi excel advance | data science 
+- 👯 I’m looking to collaborate on: devs communities 
 - 📫 How to reach me: Write me: code.masterqro@gmial.com 
 - 😄 Pronouns: You can call me as: lujan  
 
