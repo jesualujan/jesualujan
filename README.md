@@ -1,5 +1,5 @@
 ### Hi there 👋, I´m Jesua Luján
-#### I´m a entrepreneurial | Web Developer | Sensei of code
+####  :tada: I´m a entrepreneurial | Web Developer | Sensei of code
 ![I´m a entrepreneurial | Web Developer | Sensei of code](https://i.postimg.cc/DzKy4P1C/IMG-20150713-WA0035.jpg)
 
 A self-taught resident of the state of Querétaro, who is passionate about self-learning and resolve problems with technology. Entrepreneurial web developer with 2+ years of experience as a software developer.
