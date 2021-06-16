@@ -11,7 +11,7 @@ Skills: HTML5 / CSS3 / SASS/ BOOTSTRAP4.6 / TAILWINDCSS/ PHP / LARAGON / XAMPP /
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning: languaes as english and french | power bi excel advance | data science 
 - 👯 I’m looking to collaborate on: devs communities 
-- 📫 How to reach me: Write me: code.masterqro@gmial.com 
+- 📫 How to reach me: Write me: code.masterqro@gmail.com 
 - 😄 Pronouns: You can call me as: lujan  
 
 
