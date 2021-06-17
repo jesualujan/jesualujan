@@ -2,7 +2,7 @@
 #### :rocket: Game Lover | :metal: Web Developer | :octocat:  Sensei of code
 ![Game Lover | Community Lead | Sensei of code](https://i.postimg.cc/pTcmjnWp/banner.png)
 
-I would like to take this opportunity to talk to you about me. A self-taught resident of the state of Querétaro, who is passionate about self-learning and resolve problems with technology. Entrepreneurial web developer with 2+ years of experience as a software developer.
+I would like to take this opportunity to talk to you about me. Self-taught resident of the state of Querétaro, who is passionate about self-learning and resolve problems with technology. Entrepreneurial web developer with 2+ years of experience as a software developer.
 Managed and leading software development teams in communities of software development as Facebook developers circle and Devf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
 
 
