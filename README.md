@@ -1,4 +1,4 @@
-### Hi there 👋, I´m Jesua Luján
+###  **Hi there** 👋,  **I´m Jesua Luján**
 #### :rocket: Game Lover | :metal: Web Developer | :octocat:  Sensei of code
 ![Game Lover | Community Lead | Sensei of code](https://i.postimg.cc/nL8MYJfG/91444040-652563608835926-5592095149363560448-o.jpg)
 
