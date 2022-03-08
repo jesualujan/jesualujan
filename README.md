@@ -1,14 +1,16 @@
 ###  **Hi there** 👋,  **I´m Jesua Luján**
 #### :rocket: Game Lover | :metal: Web Developer | :octocat:  Sensei of code
 <a href="https://app.daily.dev/jesulujan01"><img src="https://api.daily.dev/devcards/c7d6413b4e0b48258aae753e7c1e0f6a.png?r=e3u" width="400" alt="jesua luján's Dev Card"/></a>
-Self-taught resident of the state of Querétaro, who is passionate about self-learning and resolve problems with technology. Entrepreneurial web developer with 2+ years of experience as a software developer.
+
+A MEXICAN WEB DEVELOPER, SELF-TAUGHT RESIDENT OF QUERETARO CITY, WHO IS PASSIONATE ABOUT SELF-LEARNING AND RESOLVE PROBLEMS WITH TECHNOLOGY, ENTREPRENEURIAL, WEB DEVELOPER WITH 2+ YEARS OF EXPERIENCE AS A CODE SENSEI
 Managed and leading software development teams in communities of software development as Facebook developers circle and Devf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
 
 
-Skills: HTML5 / CSS3 / SASS/ BOOTSTRAP4.6 / TAILWINDCSS/ PHP / LARAGON / XAMPP / JAVASCRIPT / REACT / MATERIAL UI / STYLED COMPONENTS
+Skills: MERN STACK, DATA SCIENCE, COMPUTER SCIENCE, FRONTEND AND BACKEND DEVELOPMENT
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning: English and French | POWER BI (Advance Excel) | Data Science 
+- 🔭 I’m currently working on Alternet Telecom https://alternet.com.mx/
+- 🔭 I’m currently working on Devf https://www.devf.la/
+- 🌱 I’m currently learning: React Advance, NextJs, MERN and LAMP STACK
 - 👯 I’m looking to collaborate on: devs communities 
 - 📫 How to reach me: Write me: code.masterqro@gmail.com 
 - 😄 Pronouns: You can call me as: lujan  
