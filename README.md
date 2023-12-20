@@ -5,15 +5,18 @@
 
 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, mexican web developer with 4+ years of experience as a code sensei. Managed and leading software development students in diferents countries as Colombia, Peru, México, Honduras, El Salvador and I participated in forums as Talent Land in guadalajara City, Querétaro Digital, and PlatziConf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
 
-
-Skills: MERN STACK, DATA SCIENCE, COMPUTER SCIENCE, FULL STACK DEVELOPER
-
+**ABOUT ME**
 - 🔭I was a ex collaborator at Alternet Telecom
 - 🔭 I’m currently working on Devf as a Code Sensei https://www.devf.la/
 - 🌱 I’m currently learning: DevOps
 - 👯 I’m looking to collaborate on: devs communities 
 - 📫 How to reach me: Write me: code.masterqro@gmail.com 
-- 😄 Pronouns: You can call me as: lujan  
+- 😄 Pronouns: You can call me as: lujan
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JESUA LUJAN &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JESUA LUJAN &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JESUA LUJAN &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jesualujan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jesulujan01/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jesulujan.netlify.app/)  
