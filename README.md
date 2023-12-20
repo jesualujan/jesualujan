@@ -1,9 +1,9 @@
 ###  **Hi there** 👋,  **I´m Jesua Luján**
-🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **billard lover**  | 🚀 **Self-taught** :colombia:
+🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **billard lover**  | 🚀 **Self-taught**
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/ed32a298559546ca87e41f2df594792b.png?r=y4w" width="400" alt="JESUALUJAN's Dev Card"/></a>
 
-Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, mexican web developer with 4+ years of experience as a code sensei. Managed and leading software development students in diferents countries as Colombia :colombia: , Peru 🇵🇪, México 🇲🇽, Honduras 🇭🇳, El Salvador and I participated in forums as Talent Land in guadalajara City, Querétaro Digital, and PlatziConf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
+Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, mexican web developer with 4+ years of experience as a code sensei. Managed and leading software development students in diferents countries as Colombia, Peru, México, Honduras, El Salvador and I participated in forums as Talent Land in guadalajara City, Querétaro Digital, and PlatziConf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
 
 
 Skills: MERN STACK, DATA SCIENCE, COMPUTER SCIENCE, FULL STACK DEVELOPER
