@@ -1,5 +1,5 @@
 ###  **Hi there** 👋,  **I´m Jesua Luján**
-🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **billard lover**  | 🚀 **Self-taught**
+🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **billard lover**  | 🚀 **Self-taught** :colombia:
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/ed32a298559546ca87e41f2df594792b.png?r=y4w" width="400" alt="JESUALUJAN's Dev Card"/></a>
 
