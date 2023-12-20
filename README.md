@@ -13,11 +13,8 @@ Self-taught resident of Guadalajara city, entrepreneurial, who is passionate abo
 - 📫 How to reach me: Write me: code.masterqro@gmail.com 
 - 😄 Pronouns: You can call me as: lujan
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JESUA LUJAN &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JESUA LUJAN &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JESUA LUJAN &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100093507976508) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jesualujan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jesulujan01/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jesulujan.netlify.app/)  
 
