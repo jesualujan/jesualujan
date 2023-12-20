@@ -1,7 +1,7 @@
 ###  **Hi there** 👋,  **I´m Jesua Luján**
-:rocket:**Game Lover** | :metal:**Web Developer** | :octocat:**Code Sensei**
+:rocket: **Game Lover** | :metal: **Web Developer** | :octocat: **Code Sensei**  | 🎱 **billard lover**
 
-<a href="https://app.daily.dev/jesulujan01"><img src="https://api.daily.dev/devcards/c7d6413b4e0b48258aae753e7c1e0f6a.png?r=e3m" width="400" alt="jesua luján's Dev Card"/></a>
+<a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/ed32a298559546ca87e41f2df594792b.png?r=y4w" width="400" alt="JESUALUJAN's Dev Card"/></a>
 
 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, entrepreneurial, mexican web developer with 4+ years of experience as a code sensei.
 Managed and leading software development teams in communities of software development as Facebook developers circle and Devf. Professionally proficient in English ​with Intermediate knowledge of French and basic Chinese.
