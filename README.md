@@ -23,3 +23,6 @@ Self-taught resident of Guadalajara city, entrepreneurial, who is passionate abo
 
 [![jesualujan GitHub stats](https://github-readme-stats.vercel.app/api?username=jesualujan)](https://github.com/jesualujan/github-readme-stats)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
