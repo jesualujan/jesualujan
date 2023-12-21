@@ -21,8 +21,6 @@ Self-taught resident of Guadalajara city, entrepreneurial, who is passionate abo
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![jesualujan GitHub stats](https://github-readme-stats.vercel.app/api?username=jesualujan)](https://github.com/jesualujan/github-readme-stats)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
