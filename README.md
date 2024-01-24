@@ -7,14 +7,13 @@ Self-taught resident of Guadalajara city, entrepreneurial, who is passionate abo
 
 **ABOUT ME**
 - 🔭I was a ex collaborator at Alternet Telecom
-- 🔭 I’m currently working on Devf as a Code Sensei https://www.devf.la/
+- 🔭 I’m currently working in Devf as a Code Sensei https://www.devf.la/
 - 🌱 I’m currently learning: DevOps
 - 👯 I’m looking to collaborate on: devs communities 
 - 😄 Pronouns: He
-- - 📫 How to reach me: Write me on my facebook
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/) 
+📫 How to reach me: Write me on my: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/) 
 
 ## 💻 Tech Stacks
 <table>
