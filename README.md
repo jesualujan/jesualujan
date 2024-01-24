@@ -2,7 +2,7 @@
 🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **Billard lover**  | 🚀 **Self-taught** 
 # 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/)
 
-
+![Header](./your-header-image-name.png)
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/ed32a298559546ca87e41f2df594792b.png?r=b4e" width="400" alt="Jesua Luján's Dev Card"/></a>
 
