@@ -1,4 +1,4 @@
-#  **Hi there** 👋,  *I´m Jesua Luján*
+#  Hi there 👋,  I´m Jesua Luján
 🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **Billard lover**  | 🚀 **Self-taught** 
 ## 🌐 Socials:
 📫 Write me: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/) 
