@@ -12,14 +12,14 @@
 <br>  ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
 </h1>
 
-<h2> About Me:</h2>
-<p>
+<h2> About Me:
  <br> - 🔭I was a ex collaborator at Alternet Telecom 
  <br> - 🔭 I’m currently working in Devf as a Code Sensei https://www.devf.la/ 
  <br>  - 🌱 I’m currently learning: DevOps 
  <br>  - 👯 I’m looking to collaborate on: devs communities 
  <br>  - 😄 Pronouns: He</td>
-</p>
+</h2>
+<p>
 
 ## 💻 Tech Stacks
 <table>
