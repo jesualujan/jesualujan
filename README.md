@@ -4,19 +4,22 @@
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/ed32a298559546ca87e41f2df594792b.png?r=tfb" width="400" alt="Jesua Luján's Dev Card"/></a>
 
-#  🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, 
-#  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
-#  🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
-#  🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
-#  ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
+<h1>  
+  🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology, 
+  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
+  🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
+  🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
+# ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
+</h1>
 
-**ABOUT ME**
+<H2>About Me: </H2>
+<h3>
 - 🔭I was a ex collaborator at Alternet Telecom
 - 🔭 I’m currently working in Devf as a Code Sensei https://www.devf.la/
 - 🌱 I’m currently learning: DevOps
 - 👯 I’m looking to collaborate on: devs communities 
 - 😄 Pronouns: He
-
+</h3>
 
 ## 💻 Tech Stacks
 <table>
