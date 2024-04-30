@@ -8,13 +8,13 @@
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=6s8" width="652" alt="Jesua Luján's Dev Card"/></a>
 
+## About Me: 
   *  <h3> 🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology. <br> </h3>
   *  <h3> 🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. <br> </h3>
   *  <h3> 🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. <br> </h3>
   *  <h3> 🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. <br> </h3>
   *  <h3> ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese. <br></h3>
-  
- <h3> About Me: </h3>
+ 
   *  <h3> 🌍  I'm based in México <br> </h3>
   *  <h3> 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a> <br> </h3>
   *  <h3> 🧠  I'm learning DevOps | GitOps <br> </h3>
