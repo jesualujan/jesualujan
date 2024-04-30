@@ -15,12 +15,14 @@
   *  <h3> ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese. <br></h3>
 
 <h3> About Me:
- * <br> 🌍  I'm based in México
- * <br> 🚀  I'm currently working on [Devf](http://devf.la)
- * <br> 🧠  I'm learning DevOps | GitOps
- * <br> 🤝  I'm open to collaborating on devs communities
- * <br>⚡  I was a ex collaborator at Alternet Telecom
- * <br> 🔭I was a ex collaborator at Alternet Telecom <br>
+ <br>
+  - 🌍  I'm based in México. <br>
+  - 🚀  I'm currently working on [Devf](http://devf.la). <br>
+  - 🧠  I'm learning DevOps | GitOps. <br>
+  - 🤝  I'm open to collaborating on devs communities. <br>
+  - ⚡  I was a ex collaborator at Alternet Telecom. <br>
+  - 🔭I was a ex collaborator at Alternet Telecom 
+<br>
 </h3>
  
 ## 💻 Tech Stacks
