@@ -1,11 +1,11 @@
 # Hi there 👋,  I´m Jesua Luján 
 ### 🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **Billard lover**  | 🚀 **Self-taught** 
 ### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
-> Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 
 # 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/)
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=6s8" width="652" alt="Jesua Luján's Dev Card"/></a>
+> Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 
  * 🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology.
  * <br><br>  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
