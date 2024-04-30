@@ -8,11 +8,11 @@
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=6s8" width="652" alt="Jesua Luján's Dev Card"/></a>
 
 <h4>  
-   🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology.
-<br><br>  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
-<br><br>  🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
-<br><br>  🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
-<br><br>  ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
+ *  🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology.
+<br><br> *  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
+<br><br> * 🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
+<br><br> * 🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
+<br><br> * ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
 </h4>
 
 <h2> About Me:
