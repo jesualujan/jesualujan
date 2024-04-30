@@ -17,7 +17,7 @@
 <h3> About Me:
  <br>
  <br> - 🌍  I'm based in México <br>
- - 🚀 I'm currently working on <a href="devf.la" > Devf </a>  <br> 
+ - 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a>  <br> 
  <br> - 🧠  I'm learning DevOps | GitOps
 <br>  - 🤝  I'm open to collaborating on devs communities
  <br> - ⚡  I was a ex collaborator at Alternet Telecom
