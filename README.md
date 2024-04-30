@@ -5,13 +5,13 @@
 # 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesua-hadai-alderete-luj%C3%A1n-a2325a121/)
 
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=6s8" width="652" alt="Jesua Luján's Dev Card"/></a>
-> Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
+
 
  * 🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology.
- * <br><br>  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
- * <br><br>  🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
- * <br><br>  🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
- * <br><br>  ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
+  <br><br>  *  🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. 
+  <br><br>  *  🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. 
+  <br><br>  *  🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. 
+  <br><br>  *  ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese.
 
 
 <h2> About Me:
@@ -23,7 +23,9 @@
  <br>  - 😄 Pronouns: He</td>
 </h2>
 <p>
-
+ 
+> Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
+ 
 ## 💻 Tech Stacks
 <table>
 <thead>
