@@ -1,5 +1,5 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesua Lujan, and I´m a:
-### 🕹️ Game Lover | 👨‍💻 Code Sensei | :octocat: Web Developer | 🎱 Billard lover | 🚀 Self-taught
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesua Lujan, and I´m a:
+## 🕹️ Game Lover | 👨‍💻 Code Sensei | :octocat: Web Developer | 🎱 Billard lover | 🚀 Self-taught
 ### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
 ### 👨‍💻 Socials: 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
@@ -14,7 +14,8 @@
   *  <h3> 🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. <br> </h3>
   *  <h3> 🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. <br> </h3>
   *  <h3> ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese. <br></h3>
- 
+  
+ ## Actually:
   *  <h3> 🌍  I'm based in México <br> </h3>
   *  <h3> 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a> <br> </h3>
   *  <h3> 🧠  I'm learning DevOps | GitOps <br> </h3>
