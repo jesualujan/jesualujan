@@ -1,4 +1,4 @@
-#Hi there 👋,  I´m Jesua Luján
+# Hi there 👋,  I´m Jesua Luján
 ### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
 > Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **Billard lover**  | 🚀 **Self-taught** 
