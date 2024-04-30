@@ -13,17 +13,13 @@
   *  <h3> 🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. <br> </h3>
   *  <h3> 🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. <br> </h3>
   *  <h3> ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese. <br></h3>
-
-<h3> About Me:
- <br>
- <br> - 🌍  I'm based in México <br>
- - 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a>  <br> 
- <br> - 🧠  I'm learning DevOps | GitOps
-<br>  - 🤝  I'm open to collaborating on devs communities
- <br> - ⚡  I was a ex collaborator at Alternet Telecom
-<br>  - 🔭I was a ex collaborator at Alternet Telecom 
-<br>
-</h3>
+  
+ <h3> About Me: </h3>
+  *  <h3> 🌍  I'm based in México <br> </h3>
+  *  <h3> 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a> <br> </h3>
+  *  <h3> 🧠  I'm learning DevOps | GitOps <br> </h3>
+  *  <h3> 🤝  I'm open to collaborating on devs communities <br> </h3>
+  *  <h3> ⚡  I was a ex collaborator at Alternet Telecom <br></h3>
  
 ## 💻 Tech Stacks
 ### Skills
