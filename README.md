@@ -1,6 +1,4 @@
 # Hi there 👋,  I´m Jesua Luján  
-<a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
 ### 🕹️ **Game Lover** | 👨‍💻 **Code Sensei** | :octocat: **Web Developer**  | 🎱 **Billard lover**  | 🚀 **Self-taught** 
 ### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
 ### 👨‍💻 Socials: 
@@ -43,4 +41,5 @@ src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-th
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
