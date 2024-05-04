@@ -18,10 +18,10 @@
   
  ## Actually:
   *  <h3> 🌍  I'm based in México <br> </h3>
-  *  <h3> 🚀 I'm currently working on <a href="[devf.la](https://new.devf.la/)" target="__blank"> Devf </a> <br> </h3>
+  *  <h3> 🚀 I'm currently working on [DEVF](https://new.devf.la/) </h3>
   *  <h3> 🧠  I'm learning DevOps | GitOps <br> </h3>
   *  <h3> 🤝  I'm open to collaborating on devs communities <br> </h3>
-  *  <h3> ⚡  I was a ex collaborator at Alternet Telecom <br></h3>
+  *  <h3> ⚡  I was a ex collaborator at [Alternet Telecom](https://alternet.io/) <br></h3>
  
 ## 💻 Tech Stacks
 ### Skills
