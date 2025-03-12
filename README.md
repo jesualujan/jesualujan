@@ -1,6 +1,6 @@
 ### Hi my name is Jesua Lujan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
-### 🕹️ Game Lover | 👨‍💻 Code Sensei  | 💻 FTTH GPON | :octocat: Web Developer | 🎱 Billard lover | 🚀 Self-taught
+### 🚀 Self-taught | 👨‍💻 Code Sensei  |  🌐 FTHH Architecure  | :octocat: Web Developer | 🎱 Billard Lover| 🕹️ Game Lover
 ##
 
 ### 👨‍💻 Socials: 
