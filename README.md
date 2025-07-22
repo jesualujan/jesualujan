@@ -8,20 +8,20 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" alt="Facebook" style="vertical-align:middle;"/> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" alt="Notion" style="vertical-align:middle;"/> [Notion]((https://speckle-grass-edc.notion.site/Personal-Portfolio-21ecba0082284e18a7dd154a734b5c9c))
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" alt="Notion" style="vertical-align:middle;"/> [Notion](https://speckle-grass-edc.notion.site/Personal-Portfolio-21ecba0082284e18a7dd154a734b5c9c)  
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card"/></a>
 
 ## About Me: 
 ### 🚀 Self-Taught Developer & Code Sensei
-I'm a passionate web developer from Guadalajara with 5+ years of experience. 
+- I'm a passionate web developer from Guadalajara with 5+ years of experience. 
 ### 🌍 International Experience 
-I've led software development students across various countries including Mexico, Colombia, and Venezuela.
+- I've led software development students across various countries including Mexico, Colombia, and Venezuela.
 ### 🔥 Event Participation
-I've had the privilege to participate in events like Talent Land, PlatziConf, and Syscom México.
+- I've had the privilege to participate in events like Talent Land, PlatziConf, and Syscom México.
 ### 🎯 Current Focus
-Currently, I'm learning DevOps and GitOps to improve my development workflow.
+- Currently, I'm learning DevOps and GitOps to improve my development workflow.
 
 ## 📌 Currently
 - 🌍 I'm based in **México**
