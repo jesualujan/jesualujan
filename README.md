@@ -1,15 +1,13 @@
 ### 👨‍💻 Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-**Code Sensei | UI Enthusiast | Tech Educator | Based in México <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" />.**
+**🚀 Self-taught | 👨‍💻 Code Sensei & Tech Educator | 🌐 FTHH Architecture | :octocat: Web Developer |  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" />. Based in México**
 
-### Crafting scalable and beautiful web interfaces with modern tools. With over 5 years of experience teaching and building digital solutions, I combine clean design, strong architecture, and developer empathy to push tech boundaries.
+### Crafting scalable  web interfaces with modern tools. With over 5 years of experience teaching and building digital solutions, I combine clean design, strong architecture, and developer empathy to push tech boundaries.
 
 - 🚀 React + Ant Design specialist with a love for modular architecture  
 - 🎤 Speaker at Talent Land, PlatziConf & Syscom  
 - 🌍 Mentor across LATAM (México, Colombia, Venezuela)  
 - 🧪 Currently exploring AI + DevOps + Vibe Coding
 
-
-### 🚀 Self-taught | 👨‍💻 Code Sensei | 🌐 FTHH Architecture | :octocat: Web Developer | 🎱 Billiard Lover | 🕹️ Game Lover
 
 ### 👨‍💻 Socials:
 🔗 Connect with me on:
