@@ -3,19 +3,26 @@
 ### 🚀 Self-taught | 👨‍💻 Code Sensei  |  🌐 FTHH Architecure  | :octocat: Web Developer | 🎱 Billard Lover | 🕹️ Game Lover
 ##
 
-### 👨‍💻 Socials: 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 👨‍💻 Socials:
+Connect with me on my social platforms:
+- [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
+- [GitHub](https://www.github.com/jesualujan)
+- [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
 
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card"/></a>
 
 ## About Me: 
-  *  ### 🚀 Self-taught resident of Guadalajara city, entrepreneurial, who is passionate about self-learning and resolve problems with technology. <br> 
-  *  ### 🖥️ Mexican web developer with 5+ years of experience as a Code Sensei. <br> 
-  *  ### 🎯 Managed and leading software development students in diferents countries like México, Colombia, Chile, Perú, Honduras, El Salvador y Venezuela. <br> 
-  *  ### 🔥 I participated in technological events like Talent Land in guadalajara City, Querétaro Digital, PlatziConf and Syscom México. <br> 
-  *  ### ✨ Professionally proficient in English as native spiker ​with Intermediate knowledge of French and basic Chinese. <br>
+### 🚀 Self-Taught Developer & Code Sensei
+I'm a passionate web developer from Guadalajara with 5+ years of experience. 
+### 🌍 International Experience 
+I've led software development students across various countries including Mexico, Colombia, and Venezuela.
+### 🔥 Event Participation
+I've had the privilege to participate in events like Talent Land, PlatziConf, and Syscom México.
+### 🎯 Current Focus
+Currently, I'm learning DevOps and GitOps to improve my development workflow.
+
   
  ## Actually:
   *  ###  🌍  I'm based in México <br> 
