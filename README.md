@@ -5,9 +5,9 @@
 
 ### 👨‍💻 Socials:
 Connect with me on my social platforms:
-- [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="25" height="25" alt="Facebook" />
-- [GitHub](https://www.github.com/jesualujan) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="25" height="25" alt="GitHub" />
-- [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="25" height="25" alt="LinkedIn" />
+-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="25" height="25" alt="Facebook" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) 
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="25" height="25" alt="GitHub" /> [GitHub](https://www.github.com/jesualujan) 
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="25" height="25" alt="LinkedIn" />[LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) 
 
 
 
