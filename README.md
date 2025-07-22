@@ -1,15 +1,13 @@
 ### 👨‍💻 Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### Self-taught resident of Guadalajara city, entrepreneur, passionate about learning and solving problems with technology. Mexican 🇲🇽 web developer with more than 5 years of experience as a Code Sensei.
+### Self-taught web developer and Code Sensei based in Guadalajara, Mexico 🇲🇽. With over 5 years of experience solving problems through code, I’m passionate about building scalable and efficient systems.
 ### 🚀 Self-taught | 👨‍💻 Code Sensei  |  🌐 FTHH Architecure  | :octocat: Web Developer | 🎱 Billard Lover | 🕹️ Game Lover
 ##
 
 ### 👨‍💻 Socials:
-Connect with me on my social platforms:
--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="25" height="25" alt="Facebook" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) 
+🔗 Connect with me on:
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="25" height="25" alt="Facebook" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) 
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="25" height="25" alt="GitHub" /> [GitHub](https://www.github.com/jesualujan) 
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="25" height="25" alt="LinkedIn" />[LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) 
-
-
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card"/></a>
