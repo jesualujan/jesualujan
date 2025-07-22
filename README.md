@@ -49,13 +49,27 @@
 
 
 
-### Badges
+### 🚀 GitHub Stats & Top Languages
 
-<b>My GitHub Stats</b>
+Here’s a snapshot of my coding activity and favorite languages:
 
-<a href="http://www.github.com/jesualujan"><img src="https://github-readme-stats.vercel.app/api?username=jesualujan&show_icons=true&hide=prs,issues,&title_color=10b981&text_color=0891b2&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="jesualujan's GitHub stats" /></a>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <a href="https://github.com/jesualujan" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jesualujan&show_icons=true&hide=prs,issues&title_color=10b981&text_color=0891b2&icon_color=ffffff&bg_color=22272e&hide_border=true"
+      alt="Jesua Luján's GitHub stats"
+      style="max-width: 100%;"
+    />
+  </a>
+  <a href="https://github.com/jesualujan" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesualujan&langs_count=10&title_color=10b981&text_color=0891b2&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages"
+      alt="Jesua Luján's Top Languages"
+      style="max-width: 100%;"
+    />
+  </a>
+</div>
 
-<a href="https://github.com/jesualujan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesualujan&langs_count=10&title_color=10b981&text_color=0891b2&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### 😂 Random Dev Meme
