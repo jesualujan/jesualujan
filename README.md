@@ -7,7 +7,7 @@
 🔗 Connect with me on:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" alt="Facebook" style="vertical-align:middle;"/> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub" style="vertical-align:middle;"/> [GitHub](https://www.github.com/jesualujan)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" style="vertical-align:middle;"/> [GitHub](https://www.github.com/jesualujan)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" alt="Notion" style="vertical-align:middle;"/> [Notion](https://www.notion.so/)
 
