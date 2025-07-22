@@ -18,18 +18,15 @@
   <img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card" />
 </a>
 
-## About Me: 
+## 👨‍💻 About Me
 ### 🚀 Self-Taught Developer & Code Sensei
-- I'm a passionate web developer from Guadalajara with 5+ years of experience.
-
-### 🌍 International Experience 
-- I've led software development students across various countries including Mexico, Colombia, and Venezuela.
-
+- Passionate web developer from Guadalajara with 5+ years of experience building scalable, efficient solutions.
+### 🌍 International Experience
+- Led software dev students across Mexico, Colombia, and Venezuela.
 ### 🔥 Event Participation
-- I've participated in Talent Land, PlatziConf, and Syscom México.
-
+- Speaker & participant at Talent Land, PlatziConf, and Syscom México.
 ### 🎯 Current Focus
-- Learning DevOps and GitOps to improve my workflow.
+- Mastering DevOps, GitOps, and expanding into Vibe Coding & AI.
 
 ## 📌 Currently
 - 🌍 Based in **México**
@@ -37,6 +34,24 @@
 - 🧠 Diving deep into **Vibe Coding** and **IA**
 - 🤝 Open to collaborating with dev communities
 - ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
+
+  ## 🚀 Proyectos Destacados  
+- [Project Name](https://github.com/jesualujan/project-link) - Breve descripción del proyecto y tecnologías clave.  
+- [Otro Proyecto](https://github.com/jesualujan/otro-proyecto) - Lo que aprendiste y por qué es cool.  
+
+## 📈 GitHub Stats & Trophies  
+- Mostrar tus estadísticas con [GitHub Readme Stats](https://github-readme-stats.vercel.app/) y [GitHub Trophies](https://github-profile-trophy.vercel.app/).  
+- Ejemplo:  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=jesualujan&theme=radical)  
+
+## 📅 Actividad Reciente  
+- Visualiza tu actividad en GitHub con [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph).  
+- Ejemplo:  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jesualujan&theme=github)  
+
+## 🎯 Roadmap y Metas  
+- Aprendiendo: DevOps, GitOps, Vibe Coding, IA.  
+- Próximos objetivos: dominar Kubernetes y microservicios escalables. 
 
 ## 💻 Tech Stacks
 
