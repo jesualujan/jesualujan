@@ -16,12 +16,16 @@
 - 🤝 Open to collaborating with dev communities
 - ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
 
-### 👨‍💻 Socials:
-🔗 Connect with me on:
+### 🌐 Connect with Me
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" alt="Facebook" style="vertical-align: middle; margin-right: 8px;" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" /> [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" alt="Notion" style="vertical-align: middle; margin-right: 8px;" /> [Notion](https://speckle-grass-edc.notion.site/Personal-Portfolio-21ecba0082284e18a7dd154a734b5c9c)
+Let’s link up and share ideas, builds, and billiards strategies 🤜🤛
+
+| Platform | Link |
+|---------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook" /> **Facebook** | [See what I’m up to](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" /> **LinkedIn** | [Let’s connect professionally](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" alt="Notion" /> **Notion Portfolio** | [Explore my personal workspace](https://speckle-grass-edc.notion.site/Personal-Portfolio-21ecba0082284e18a7dd154a734b5c9c) |
+
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 
