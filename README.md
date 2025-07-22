@@ -5,9 +5,17 @@
 
 ### 👨‍💻 Socials:
 Connect with me on my social platforms:
-- [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
-- [GitHub](https://www.github.com/jesualujan)
-- [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+  <a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
 
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
