@@ -59,6 +59,10 @@
 
 Here’s a snapshot of my coding activity and favorite languages:
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=jesualujan&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jesualujan&theme=github)
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/jesualujan" target="_blank" rel="noopener noreferrer">
     <img
