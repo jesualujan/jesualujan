@@ -11,7 +11,7 @@
 
 ## 📌 Currently
 - 🌍 Based in **México**
-- 🚀 Working at [DEVF](https://new.devf.la/)
+- 🚀 Working at [DEVF](https://devf.la/)
 - 🧠 Diving deep into **Vibe Coding** and **IA**
 - 🤝 Open to collaborating with dev communities
 - ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
