@@ -1,13 +1,20 @@
-### 👨‍💻 Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### ✨ Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 **🚀 Self-taught | 👨‍💻 Code Sensei & Tech Educator | 🌐 FTHH Architecture | :octocat: Web Developer |  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" />. Based in México**
 
 ### Crafting scalable  web interfaces with modern tools. With over 5 years of experience teaching and building digital solutions, I combine clean design, strong architecture, and developer empathy to push tech boundaries.
 
-- 🚀 React + Ant Design specialist with a love for modular architecture  
-- 🎤 Speaker at Talent Land, PlatziConf & Syscom  
-- 🌍 Mentor across LATAM (México, Colombia, Venezuela)  
-- 🧪 Currently exploring AI + DevOps + Vibe Coding
+## 👨‍💻 About Me:
+- 🔥 React + Vite + Tailwind expert with a love for modular architecture  
+- 🎤 Participant at Talent Land, PlatziConf & Syscom México. 
+- 🌍 Mentor and Tech Educator across LATAM (México, Colombia, Venezuela, Perú.)  
+- 🎯 Currently exploring AI + DevOps + Vibe Coding
 
+## 📌 Currently
+- 🌍 Based in **México**
+- 🚀 Working at [DEVF](https://new.devf.la/)
+- 🧠 Diving deep into **Vibe Coding** and **IA**
+- 🤝 Open to collaborating with dev communities
+- ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
 
 ### 👨‍💻 Socials:
 🔗 Connect with me on:
@@ -21,23 +28,6 @@
 <a href="https://app.daily.dev/jesulujan">
   <img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card" />
 </a>
-
-## 👨‍💻 About Me
-### 🚀 Self-Taught Developer & Code Sensei
-- Passionate web developer from Guadalajara with 5+ years of experience building scalable, efficient solutions.
-### 🌍 International Experience
-- Led software dev students across Mexico, Colombia, and Venezuela.
-### 🔥 Event Participation
-- Speaker & participant at Talent Land, PlatziConf, and Syscom México.
-### 🎯 Current Focus
-- Mastering DevOps, GitOps, and expanding into Vibe Coding & AI.
-
-## 📌 Currently
-- 🌍 Based in **México**
-- 🚀 Working at [DEVF](https://new.devf.la/)
-- 🧠 Diving deep into **Vibe Coding** and **IA**
-- 🤝 Open to collaborating with dev communities
-- ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
 
 ## 💻 Tech Stacks  
 ### Skills  
