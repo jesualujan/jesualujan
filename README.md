@@ -1,6 +1,6 @@
 ### 👨‍💻 Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### Self-taught web developer and Code Sensei from Guadalajara, Mexico <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" />. With over 5 years of hands-on experience, I thrive on crafting scalable, efficient systems that solve real-world problems with elegant code.
+### Self-taughtweb developer and Code Sensei based in Guadalajara, Mexico <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" />. I have more than five years of experience solving problems through code and am passionate about using technology to solve problems and break down digital barriers.
 
 
 ### 🚀 Self-taught | 👨‍💻 Code Sensei | 🌐 FTHH Architecture | :octocat: Web Developer | 🎱 Billiard Lover | 🕹️ Game Lover
