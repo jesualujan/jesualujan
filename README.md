@@ -23,13 +23,12 @@ I've had the privilege to participate in events like Talent Land, PlatziConf, an
 ### 🎯 Current Focus
 Currently, I'm learning DevOps and GitOps to improve my development workflow.
 
-  
- ## Actually:
-  *  ###  🌍  I'm based in México <br> 
-  *  ###  🚀 I'm currently working on [DEVF](https://new.devf.la/) 
-  *  ###  🧠  I'm learning DevOps | GitOps <br> 
-  *  ###  🤝  I'm open to collaborating on devs communities <br> 
-  *  ### ⚡  I was a ex collaborator at [Alternet Telecom](https://alternet.io/) <br>
+## 📌 Currently
+- 🌍 I'm based in **México**
+- 🚀 I'm currently working at [DEVF](https://new.devf.la/)
+- 🧠 I'm diving deep into **Vibe Coding** and **IA**
+- 🤝 Open to collaborating with dev communities
+- ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
 
  ## 💻 Tech Stacks
 
@@ -60,6 +59,9 @@ Currently, I'm learning DevOps and GitOps to improve my development workflow.
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
+
+![Random Meme](https://meme-api.herokuapp.com/gimme)
+
+<a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" />
+</a>
