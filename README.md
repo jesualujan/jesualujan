@@ -6,10 +6,10 @@
 ### 👨‍💻 Socials:
 🔗 Connect with me on:
 
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="30" height="30" alt="Facebook" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="30" alt="GitHub" /> [GitHub](https://www.github.com/jesualujan)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="30" height="30" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notion_logo.svg/1024px-Notion_logo.svg.png" width="30" height="30" alt="Notion" /> [Notion]([https://www.notion.so/](https://speckle-grass-edc.notion.site/Personal-Portfolio-21ecba0082284e18a7dd154a734b5c9c))
+- <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="30" height="30" alt="Facebook" /> [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB)</p>
+- <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="30" alt="GitHub" /> [GitHub](https://www.github.com/jesualujan)</p>
+- <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="30" height="30" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/)</p>
+- <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notion_logo.svg/1024px-Notion_logo.svg.png" width="30" height="30" alt="Notion" /> [Notion](https://www.notion.so/)</p>
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
 <a href="https://app.daily.dev/jesulujan"><img src="https://api.daily.dev/devcards/v2/QwsS8WQAbbrbH5VWoOstO.png?type=wide&r=211" width="652" alt="Jesua Luján's Dev Card"/></a>
