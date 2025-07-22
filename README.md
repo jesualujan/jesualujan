@@ -59,10 +59,6 @@
 
 Here’s a snapshot of my coding activity and favorite languages:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jesualujan&theme=radical)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jesualujan&theme=github)
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/jesualujan" target="_blank" rel="noopener noreferrer">
     <img
@@ -80,10 +76,4 @@ Here’s a snapshot of my coding activity and favorite languages:
   </a>
 </div>
 
-### 😂 Random Dev Meme
 
-![Random Meme](https://meme-api.herokuapp.com/gimme)
-
-<a href="https://www.github.com/jesualujan" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/jesualujan?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" />
-</a>
