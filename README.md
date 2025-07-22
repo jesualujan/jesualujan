@@ -5,10 +5,10 @@
 
 ### 👨‍💻 Socials:
 Connect with me on my social platforms:
+- [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="16" height="16" alt="Facebook" />
+- [GitHub](https://www.github.com/jesualujan) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="16" height="16" alt="GitHub" />
+- [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="16" height="16" alt="LinkedIn" />
 
-- [Facebook](https://www.facebook.com/profile.php?id=100093507976508&mibextid=gik2fB) ![Facebook](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg)
-- [GitHub](https://www.github.com/jesualujan) ![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg)
-- [LinkedIn](https://www.linkedin.com/in/jesua-hadai-alderete-luján-a2325a121/) ![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg)
 
 
 > “Of all the roads that lead to fortune and success, the two surest are perseverance and hard work.”
