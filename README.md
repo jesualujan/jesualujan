@@ -14,7 +14,7 @@
 - 🚀 Working at [DEVF](https://devf.la/)
 - 🧠 Diving deep into **Vibe Coding** and **IA**
 - 🤝 Open to collaborating with dev communities
-- ⚡ Former collaborator at [Alternet Telecom](https://alternet.io/)
+- ⚡  Former collaborator at [Alterpay](https://alterpay.mx/)
 
 ### 🌐 Connect with Me
 
