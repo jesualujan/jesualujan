@@ -1,7 +1,7 @@
 ### <h2> ✨ Hi, I'm Jesua Luján! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </h2>
 **<h3>🚀 Self-taught | 👨‍💻 Code Sensei & Tech Educator | 🌐 FTHH Architecture | :octocat: Web Developer |  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" width="20" style="vertical-align:middle" /> Based in México </h3>**
 
-### Crafting scalable  web interfaces with modern tools. With over 5 years of experience teaching and building digital solutions, I combine clean design, strong architecture, and developer empathy to push tech boundaries.
+### Self-taught engineer with over 5 years of experience, based in Guadalajara, dedicated to creating digital solutions and advising developers. I combine clean design, robust architecture, and deep empathy with developers to create scalable systems and empower teams. My work combines technical clarity with people-centered impact, pushing boundaries without neglecting onboarding and collaboration.
 
 ## 👨‍💻 About Me:
 - 🔥 React + Vite + Tailwind expert with a love for modular architecture  
