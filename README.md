@@ -4,10 +4,10 @@
 ### Self-taught engineer with over 5 years of experience, based in Guadalajara, dedicated to creating digital solutions and advising developers. I combine clean design, robust architecture, and deep empathy with developers to create scalable systems and empower teams. My work combines technical clarity with people-centered impact, pushing boundaries without neglecting onboarding and collaboration.
 
 ## 👨‍💻 About Me:
-- 🔥 React + Vite + Tailwind expert with a love for modular architecture  
-- 🎤 Participant at Talent Land, PlatziConf & Syscom México. 
-- 🌍 Mentor and Tech Educator across LATAM (México, Colombia, Venezuela, Perú.)  
-- 🎯 Currently exploring AI + DevOps + Vibe Coding
+- 🔥 **Full Stack Developer** specializing in the MERN stack and modular architecture
+- 🎤 Participant at **Talent Land, PlatziConf, and Syscom México**
+- 🌍 Mentor and Tech Educator across LATAM: México, Colombia, Venezuela, Perú 
+- 🎯 Currently exploring AI Agents, DevOps, and the philosophy behind Vibe Coding
 
 ## 📌 Currently
 - 🌍 Based in **México**
